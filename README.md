@@ -13,9 +13,10 @@ Project for making ticket system page with Angular and simple backend in 1 week.
 - Again the code itself ended up being mostly copy pasted material. Especially database code was ripped from my previous project almost in its entirety.
 - The increased amount of frontend work needed caused some harm but bootstrap was easy to understand and use in very basic/limited fashion.
 - All was going well until came the need to write all the TypeScript code for handling REST and other DOM data. It quickly came evident that with no prior coding knowledge this was impossible to manage within time.
-- Also I was a bit surpriced that this project needed 90% frontend work which is sadly very much out of my current skillset.
+- Also I was a bit surprised that this project needed 90% frontend work which is sadly very much out of my current skillset.
 #### Result
 - Required features were not accomplished due to TypeScript skill requirement.
+- Some super basic UI and backend were ready.
 - I still learned a lot about working in Angular environment.
 - I also learned that I am not even nearly ready to work with there technologies. Going though some TypeScript cource is a must!
 - Understood what full-stack means (apparently something I'm not ready yet but that I pretty much knew already).

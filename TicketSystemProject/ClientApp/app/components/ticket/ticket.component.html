@@ -1,0 +1,16 @@
+<form>
+    <div class="form-group">
+        <label for="ticketDateInput">Date</label>
+        <input type="date" class="form-control" id="ticketDateInput">
+    </div>
+    <div class="form-group">
+        <label for="ticketStatusSelect">Status</label>
+        <select class="form-control" id="ticketStatusSelect" *ngFor="let ticketStatus of ticketStatuses">
+            <option>{{ ticketStatus.name }}</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="ticketDetailsInput">Details</label>
+        <textarea class="form-control" id="ticketDetailsInput" rows="3"></textarea>
+    </div>
+</form>
